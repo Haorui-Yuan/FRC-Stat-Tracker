@@ -1,4 +1,4 @@
-# Tracking Instrument
+# FRC Tracking Instrument
 
 Client-side, keyboard-first real-time tracker (React + TypeScript + Vite + Tailwind + jsPDF). No backend.
 
